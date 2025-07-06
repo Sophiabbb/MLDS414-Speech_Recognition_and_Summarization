@@ -53,7 +53,7 @@ We experimented with different summarization models and methods to generate summ
     - Coverage score: Evaluates inclusion of key information.
     - Coherence score: Measures logical flow and structural clarity.
     - Faithfulness score: Checks factual consistency with the original text.
-- Results: LLM-based agents significantly outperformed both the fine-tuned T5 and the original T5 models across all summary lengths (Tiny, Small, Large).
+- Results: LLM-based agents significantly outperformed both the fine-tuned T5 and the original T5 models across all summary lengths (Tiny, Short, long).
 
 ---
 
