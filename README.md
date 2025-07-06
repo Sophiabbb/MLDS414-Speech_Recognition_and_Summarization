@@ -61,7 +61,7 @@ We experimented with different summarization models and methods to generate summ
 The project includes an interactive Streamlit web application that users can:
 - Upload audio files and generate transcriptions
 - Extract named entities of the transcription
-- Generate summaries at multiple abstraction levels (Tiny, Small, Large)
+- Generate summaries at multiple abstraction levels (Tiny, Short, long)
 
 ---
 
