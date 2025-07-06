@@ -1,0 +1,12 @@
+openai-whisper==20240930
+spacy==3.8.5
+librosa==0.11.0
+transformers==4.51.3
+peft==0.15.0
+torch==2.7.0
+huggingface_hub==0.31.2
+pandas==2.2.2
+langgraph==0.3.11
+langchain-core==0.3.45
+python-dotenv==1.0.1
+streamlit==1.42.2
