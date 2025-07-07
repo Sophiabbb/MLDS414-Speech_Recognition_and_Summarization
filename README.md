@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project combines Automatic Speech Recognition (ASR) and Named Entity Recognition (NER) with multi-level summarization to process and analyze spoken content. The pipeline transcribes audio using Whisper (OpenAI), extracts name entities with spaCy, and generates summaries at varying lengths (sentence, paragraph, multi-paragraph) using fine-tuned T5-Small and LLM-based agents. A Streamlit web app provides an interactive interface for users to upload audio, extract name entities, and obtain summaries.
+This project combines Automatic Speech Recognition (ASR) and Named Entity Recognition (NER) with multi-level summarization to process and analyze spoken content. The pipeline transcribes audio using OpenAI Whisper, extracts name entities with spaCy, and generates summaries at varying lengths (sentence, paragraph, multi-paragraph) using fine-tuned T5 and LLM-based agents. A Streamlit web app provides an interactive interface for users to upload audio, extract name entities, and obtain summaries.
 
 ---
 
